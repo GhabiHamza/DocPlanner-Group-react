@@ -1,0 +1,87 @@
+.App {
+  text-align: center;
+}
+.nav{
+position: fixed;
+top: 0;
+z-index: 1;
+}
+.logo-nav{
+  width: 223px;
+}
+a{
+  text-decoration: none !important;
+
+}
+a:active{
+  color: rgb(0, 238, 255);
+  
+
+}
+.car-link:hover{
+  color: rgb(0, 238, 255) !important;
+
+}
+.h1-intro{
+  color: rgb(0, 238, 255);
+}
+.p-intro{
+  display: flex;
+
+}
+.p1{
+  color: gray;
+}
+
+.main-card{
+  display: flex;
+  justify-content: space-around;
+}
+.link-group{
+  display: flex;
+  margin-top: 40px;
+  justify-content: space-between
+  
+
+  
+}
+.list-link{
+  display: flex;
+  justify-content: space-between;
+  list-style: none;
+}
+.title-group{
+  color: aqua;
+}
+.img-main{
+  margin-left: 221px;
+}
+.main-group{
+  background-image: url('./bg.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-top: 40px;
+}
+.item{
+  margin-top: 40px;
+}
+.title-item{
+  color: aqua;
+}
+.p-item{
+  color: gray;
+}
+.titre-main-group{
+  color: aqua;
+}
+..p-footer {
+  color: gray;
+  padding: 50px;
+  text-align: center;
+}
+
+#link-footer {
+  color: blue;
+}
+
+
